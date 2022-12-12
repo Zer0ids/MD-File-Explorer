@@ -1,5 +1,6 @@
 # Making text glow in Google Slides
 ~(  forum by: Noah Y.  )~ 🙂
+
 ***I know the text says, "HELL", but it actually says, "HELLO!". Don't question about that please :-(***
 
 ### Step 1️⃣:
