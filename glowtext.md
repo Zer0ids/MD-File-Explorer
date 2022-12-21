@@ -43,3 +43,5 @@ You should also change the glow (or drop shadow) color to any color you want.
 ![image](https://user-images.githubusercontent.com/100814109/207131895-9c744119-b0d7-474f-815d-36029e2d4776.png)
 
 I'd recommend to do the text's color. ✔️
+
+(By the way, you can apply this to images as well! I'd recommend the `Blur Radius` to be higher than `25%`...)
