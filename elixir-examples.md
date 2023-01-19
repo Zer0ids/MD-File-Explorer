@@ -45,3 +45,13 @@
 
 ![image](https://user-images.githubusercontent.com/100814109/213334289-ae56f607-edf0-4a39-8a98-b4ebd0ad930c.png)
 
+### open.spotify.com ((#1) Music Player)
+
+`Example:`
+
+![image](https://user-images.githubusercontent.com/100814109/213473970-dc0fd526-1f38-4c4e-afa0-920791934734.png)
+
+`By using elixir:`
+
+![image](https://user-images.githubusercontent.com/100814109/213477512-41119624-597a-4540-a9ca-534a0f02cbbe.png)
+
