@@ -1,5 +1,9 @@
 # Elixir (Cisco Umbrella Bypass)
 
+(These images are not fake and are used by the elixir service api!)
+
+(If you think they're fake, think twice...)
+
 ### mathway.com (Math solver)
 
 `Example:`
