@@ -33,3 +33,15 @@
 `By using elixir:`
 
 ![image](https://user-images.githubusercontent.com/100814109/213327727-abfd080a-d55c-4d16-8a85-3fdc19c28dbf.png)
+
+### now.gg (Mobile cloud; Games)
+
+`Example:`
+
+![image](https://user-images.githubusercontent.com/100814109/213334145-0133504b-d306-49ec-a95a-7bc2a0edf457.png)
+
+
+`By using elixir:`
+
+![image](https://user-images.githubusercontent.com/100814109/213334289-ae56f607-edf0-4a39-8a98-b4ebd0ad930c.png)
+
